@@ -1,0 +1,10 @@
+D:\Users\Dev_WL4MA\source\repos\VBPractice\bin\Debug\VBPractice.exe.config
+D:\Users\Dev_WL4MA\source\repos\VBPractice\bin\Debug\VBPractice.exe
+D:\Users\Dev_WL4MA\source\repos\VBPractice\bin\Debug\VBPractice.pdb
+D:\Users\Dev_WL4MA\source\repos\VBPractice\bin\Debug\VBPractice.xml
+D:\Users\Dev_WL4MA\source\repos\VBPractice\obj\Debug\VBPractice.Resources.resources
+D:\Users\Dev_WL4MA\source\repos\VBPractice\obj\Debug\VBPractice.vbproj.GenerateResource.cache
+D:\Users\Dev_WL4MA\source\repos\VBPractice\obj\Debug\VBPractice.vbproj.CoreCompileInputs.cache
+D:\Users\Dev_WL4MA\source\repos\VBPractice\obj\Debug\VBPractice.exe
+D:\Users\Dev_WL4MA\source\repos\VBPractice\obj\Debug\VBPractice.xml
+D:\Users\Dev_WL4MA\source\repos\VBPractice\obj\Debug\VBPractice.pdb
